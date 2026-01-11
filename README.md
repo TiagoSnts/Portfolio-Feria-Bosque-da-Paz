@@ -3,7 +3,7 @@
 > **Status:** Projeto entregue e atualmente sendo utilizado pela administração da feira.
 
 ## 📄 Sobre o Projeto
-Este projeto consistiu no desenvolvimento de uma aplicação web real para solucionar o problema de gestão da Feira Bosque da Paz. O sistema centraliza processos cruciais como o cadastro de expositores, uma vitrine virtual de produtos, o mapa interativo do evento e o controle financeiro de taxas.
+Este projeto consistiu no desenvolvimento de uma aplicação web real para solucionar o problema de gestão da Feira Bosque da Paz. O sistema reúne processos importantes como o cadastro de expositores, uma vitrine virtual de produtos, o mapa interativo do evento e o controle financeiro de taxas.
 
 O desenvolvimento foi realizado em equipe, simulando um ambiente real de trabalho com divisão de responsabilidades entre Front-end e Back-end.
 
