@@ -1,6 +1,6 @@
 # Sistema de Gestão Web - Feira Bosque da Paz
 
-> **Status:** Projeto entregue e atualmente sendo utilizado pela administração da feira.
+> **Status:** Projeto entregue e atualmente **em produção**, sendo utilizado pela administração da feira.
 
 ## 📄 Sobre o Projeto
 Este projeto consistiu no desenvolvimento de uma aplicação web real para solucionar o problema de gestão da Feira Bosque da Paz. O sistema reúne processos importantes como o cadastro de expositores, uma vitrine virtual de produtos, o mapa interativo do evento e o controle financeiro de taxas.
@@ -32,6 +32,7 @@ Minha atuação foi focada na experiência do usuário e na interface visual do 
 
 ## 🔗 Links
 * [Figma](https://www.figma.com/design/ZBW1OVYx6FPectQWAKbABl/Projeto-feira-bosque-da-paz?node-id=0-1&t=Ex1MB5m3ZBm4P5af-1)
+* [Bosque da Paz](https://feirabosquedapaz.com.br/app/Views/Client/)
 
 ---
 *Nota: Este repositório serve como portfólio para demonstrar a parte de Front-end e UI desenvolvida por mim. O código-fonte completo do Back-end permanece privado por razões de propriedade do cliente.*
