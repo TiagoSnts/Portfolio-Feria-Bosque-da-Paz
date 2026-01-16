@@ -24,7 +24,7 @@ Minha atuação foi focada na experiência do usuário e na interface visual do 
 
 ## 📸 Screenshots do Projeto
 <img width="761" height="513" alt="tela relatorio de expositores feira bosque da paz" src="https://github.com/user-attachments/assets/3807e99f-5e1d-4e80-94db-789b97a3eb1c" />
-<img width="720" height="487" alt="tela redifinir senha feira bosque da paz" src="https://github.com/user-attachments/assets/e10c75d4-04b4-4e52-b6e5-51fa8fb8f5df" />
+<img width="761" height="513" alt="tela redefinir senha feira bosque da paz" src="https://github.com/user-attachments/assets/39ecb5c5-6a03-41b4-b54a-6e021568c20e" />
 <img width="790" height="531" alt="tela login feira bosque da paz" src="https://github.com/user-attachments/assets/d099a726-7899-4c64-97c2-a4433a7f1231" />
 <img width="762" height="513" alt="tela edição de perfil feira bosque da paz" src="https://github.com/user-attachments/assets/a3393c9e-c69e-45c4-a71c-89f74b44586b" />
 
